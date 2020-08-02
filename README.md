@@ -13,28 +13,28 @@ connect with me on [LinkedIn](https://www.linkedin.com/in/carlademarchi/).
 
 🙂 Below some facts about me
 
-1. I was born in a small town in the south Brazil called Schroeder, where the principal activate is agriculture
+1. I was born in a small town in the south of Brazil called Schroeder, where the agriculture is the main economical activity.
 ![](https://media.giphy.com/media/SWcOoyPYNO68425v9W/giphy.gif)
 
-2. When I was young, I had a punk rock band with my friends <br />
+2. When I was young, I had a punk rock band with my friends. <br />
 ![](https://media.giphy.com/media/28fnPuDOGUXRh6pDzH/giphy.gif)
 
-3. My first internship was in helpdesk team, and I helped users with computer problems <br />
+3. My first internship was in helpdesk team, and I helped users with computer problems. <br />
 ![](https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif)
 
 4. I love cats and dogs <3 <br />
 ![](https://media.giphy.com/media/BLCHvwl9C5j1u/giphy.gif)
 
-5. I love running <br />
+5. I love running. <br />
 ![](https://media.giphy.com/media/l2Sqc3POpzkj5r8SQ/giphy.gif)
 
-6. I gradueted in Analysis and System Development <br />
+6. I have a degree in Analysis and System Development. <br />
 ![](https://media.giphy.com/media/TIY5OboTZcmxstvWoc/giphy.gif)
 
-7. But I follow career in design <br />
+7. But I follow career in design. <br />
 ![](https://media.giphy.com/media/ZEl0zxWgaLqMI9IGnu/giphy.gif)
 
-8. Currently, I have been working with design system at Globo.com
+8. Currently, I have been working with design system at Globo.com.
 ![](https://media.giphy.com/media/LqajRC2pU0Je8/giphy.gif)
 
 
