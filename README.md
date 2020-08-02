@@ -1,16 +1,40 @@
 ### Hi there 👋
 
-<!--
-**carlademarchi/carlademarchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carla, and I'm a desinger living in Rio de Janeiro - Brazil.
 
-Here are some ideas to get you started:
+⚡️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍🎤 Pronoums: She/Her
+- 👩‍💻 Currently building design systems at [Globo.com](https://www.globo.com/)
+
+📬 Get in touch
+- @ me on [Twitter](https://twitter.com/demarchicarla) (usually about design, tech, politics and randomness)
+connect with me on [LinkedIn](https://www.linkedin.com/in/carlademarchi/).
+
+🙂 Below some facts about me
+
+1. I was born in a small town in the south Brazil called Schroeder, where the principal activate is agriculture
+![](https://media.giphy.com/media/SWcOoyPYNO68425v9W/giphy.gif)
+
+2. When I was young, I had a punk rock band with my friends <br />
+![](https://media.giphy.com/media/28fnPuDOGUXRh6pDzH/giphy.gif)
+
+3. My first internship was in helpdesk team, and I helped users with computer problems <br />
+![](https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif)
+
+4. I love cats and dogs <3 <br />
+![](https://media.giphy.com/media/BLCHvwl9C5j1u/giphy.gif)
+
+5. I love running <br />
+![](https://media.giphy.com/media/l2Sqc3POpzkj5r8SQ/giphy.gif)
+
+6. I gradueted in Analysis and System Development <br />
+![](https://media.giphy.com/media/TIY5OboTZcmxstvWoc/giphy.gif)
+
+7. But I follow career in design <br />
+![](https://media.giphy.com/media/ZEl0zxWgaLqMI9IGnu/giphy.gif)
+
+8. Currently, I have been working with design system at Globo.com
+![](https://media.giphy.com/media/LqajRC2pU0Je8/giphy.gif)
+
+
