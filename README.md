@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Carla, and I'm a desinger living in Rio de Janeiro - Brazil.
+I'm Carla, and I'm a designer living in Rio de Janeiro - Brazil. Currently, I’m working on closing the gap between design and development to build design systems. 
 
 ⚡️ About Me
 
