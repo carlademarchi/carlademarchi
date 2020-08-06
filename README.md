@@ -8,7 +8,7 @@ I'm Carla, and I'm a designer living in Rio de Janeiro - Brazil. Currently, I’
 - 👩‍💻 Currently building design systems at [Globo.com](https://www.globo.com/)
 
 📬 Get in touch
-- @ me on [Twitter](https://twitter.com/demarchicarla) (usually about design, tech, politics and randomness)
+- With me on [Twitter](https://twitter.com/demarchicarla) (usually about design, tech, politics and randomness)
 connect with me on [LinkedIn](https://www.linkedin.com/in/carlademarchi/).
 
 🙂 Below some facts about me
@@ -34,7 +34,7 @@ connect with me on [LinkedIn](https://www.linkedin.com/in/carlademarchi/).
 7. But I have a career in design. <br />
 ![](https://media.giphy.com/media/ZEl0zxWgaLqMI9IGnu/giphy.gif)
 
-8. Currently, I have been working with design system at Globo.com.
+8. Currently, I have been working with design systems at Globo.com.
 ![](https://media.giphy.com/media/LqajRC2pU0Je8/giphy.gif)
 
 
