@@ -5,7 +5,7 @@ I'm Carla, and I'm a designer living in Rio de Janeiro - Brazil. Currently, I’
 ⚡️ About Me
 
 - 👩‍🎤 Pronoums: She/Her
-- 👩‍💻 Currently building design systems at Vtex
+- 👩‍💻 Currently building design systems at VTEX.
 
 📬 Get in touch
 - With me on [Twitter](https://twitter.com/demarchicarla) (usually about design, tech, politics and randomness)
